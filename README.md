@@ -7,8 +7,8 @@ Sou um desenvolvedor apaixonado por automação, scripts e DevOps. Adoro criar s
 - ☁️ Cloud: AWS, Azure e GCP
 
 ### Projetos em Destaque
-- [GLPI-Setup-Automation](https://github.com/seu-usuario/GLPI-Setup-Automation): Um script Bash para automatizar a instalação do GLPI em servidores Linux.
-- (https://github.com/tonwells/IT-Automation-Scripts): Repositório com scripts diversos para automação de TI.
+- https://github.com/tonwells/IT-Automation-Scripts/blob/main/GLPI-Setup-Automation: Um script Bash para automatizar a instalação do GLPI em servidores Rocky Linux.
+- https://github.com/tonwells/IT-Automation-Scripts: Repositório com scripts diversos para automação de TI.
 
 ### Interesses
 - 🌊 Mergulho
